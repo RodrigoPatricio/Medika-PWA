@@ -1,19 +1,5 @@
-# medika
+# Medika-PWA
 
-## Project setup
-```
-npm install
-```
+Is a personal project of a pwa for schedulling patients for small clinics and liberal medical professionals.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+It is currently under development using Vue.js and firebase.
