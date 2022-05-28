@@ -26,7 +26,7 @@
       </div>
       <div class="text">
         <p>
-          Esqueceu sua senha? <router-link to="/">Clique aqui.</router-link>
+          Esqueceu sua senha? <router-link to="/login">Clique aqui.</router-link>
         </p>
       </div>
       <div class="submit">
